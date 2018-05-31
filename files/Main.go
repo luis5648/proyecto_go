@@ -11,7 +11,7 @@ func main() {
 	for i := 0; i < 10; i++ {
 		fmt.Println(a, ", ")
 
-		//fmt.Println("Hello world")
+		fmt.Println("Hello world")
 
 		a++
 
