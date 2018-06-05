@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 
@@ -16,10 +18,5 @@ func main() {
 		a++
 
 	}
-
-	saludo()
-}
-
-func saludo() {
-	fmt.Println("Hola mundo")
+	String1()
 }
